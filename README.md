@@ -11,4 +11,4 @@ Besides this, you can check out these repos too:
 
 
 Also, there is an interesting article about this that links many shell script examples:
-- http://dberkholz.com/2011/04/07/bash-shell-scripting-libraries/
+- http://dberkholz.com/2011/04/07/bash-shell-scripting-libraries/My project's README
